@@ -6,7 +6,7 @@ public class enemyAi : MonoBehaviour {
 
 	private float Distance;
 	private Transform target;
-	private int moveSpeed = 5;
+	private int moveSpeed = 7;
 	private int rotationSpeed = 3;
 	private Transform myTransform;
 	
